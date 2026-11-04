@@ -36,6 +36,7 @@ Não é necessário instalar dependências adicionais.
 ## 📷 Demonstração
 
 As imagens e os recursos visuais utilizados no projeto estão disponíveis nas pastas `img`, `css` e `fontawesome-free-7.3.1-web`.
+![Demonstração do Site Outubro Rosa](img/outubro-rosa.png)
 
 ## 👨‍💻 Autor
 
